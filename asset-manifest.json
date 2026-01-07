@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fantasy-gacha-rpg/static/css/main.e6c13ad2.css",
+    "main.js": "/fantasy-gacha-rpg/static/js/main.aeae5f35.js",
+    "static/js/453.7de7e20b.chunk.js": "/fantasy-gacha-rpg/static/js/453.7de7e20b.chunk.js",
+    "index.html": "/fantasy-gacha-rpg/index.html",
+    "main.e6c13ad2.css.map": "/fantasy-gacha-rpg/static/css/main.e6c13ad2.css.map",
+    "main.aeae5f35.js.map": "/fantasy-gacha-rpg/static/js/main.aeae5f35.js.map",
+    "453.7de7e20b.chunk.js.map": "/fantasy-gacha-rpg/static/js/453.7de7e20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aeae5f35.js"
+  ]
+}
